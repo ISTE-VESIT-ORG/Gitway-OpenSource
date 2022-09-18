@@ -57,8 +57,8 @@ In this workshop we learn about :
 
 To get going with the repo and cloud concepts we expect you to follow all the topics in the given manner of the workshop which eventually will lead to end of the series.
 
--   [Day1](https://github.com/SarveshPatil29/Git-Readme/tree/day-1#day-1)
--   [Day2](https://github.com/SarveshPatil29/Git-Readme/tree/day-2#day-2)
+-   [Day1](https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource/tree/day-1#day-1)
+-   [Day2](https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource/tree/day-2#day-2)
 
 ### Prerequisites
 
@@ -68,8 +68,8 @@ To get going with the repo and cloud concepts we expect you to follow all the to
 
 The following links contain the usage examples of that respective session.(All the links will become available as we gradually progress)
 
--   [Day1](https://github.com/SarveshPatil29/Git-Readme/tree/day-1#day-1)
--   [Day2](https://github.com/SarveshPatil29/Git-Readme/tree/day-2#day-2)
+-   [Day1](https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource/tree/day-1#day-1)
+-   [Day2](https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource/tree/day-2#day-2)
 
 <!-- ISSUES -->
 
@@ -121,7 +121,7 @@ Contributions are what make the open source community such an amazing place to b
 
 licence dekhna hai
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/SarveshPatil29/Git-Readme/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource/blob/main/LICENSE) for more information.
 
 <!-- CREDITS -->
 
