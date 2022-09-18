@@ -103,7 +103,7 @@ A GitHub fork is a copy of a repository (repo) that sits in your account rather 
 
 You can fork any repo by clicking the fork button in the upper right hand corner of a repo page.
 ![image](https://res.cloudinary.com/sarveshp46/image/upload/v1663178481/git-workshop-readme/fork_r8eniz.png)
-<br/><br/>
+<br/>
 
 <hr>
 
@@ -111,4 +111,4 @@ You can fork any repo by clicking the fork button in the upper right hand corner
 
 A GitHub profile README is a feature of GitHub that allows users to use a Markdown file named README to write details about themselves such as their skills, interests, GitHub stats and showcase it to the GitHub community. It’s shown at the top of your GitHub home page, above the pinned repositories. This is a fancy way to showcase one’s skills and stats on GitHub. Following is an example of a GitHub profile README:
 
-![image](https://res.cloudinary.com/sarveshp46/image/upload/v1663178483/git-workshop-readme/profile-readme_lsp5od.png)
+[![image](https://res.cloudinary.com/sarveshp46/image/upload/v1663178483/git-workshop-readme/profile-readme_lsp5od.png)](https://github.com/SarveshPatil29)
