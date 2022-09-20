@@ -33,10 +33,10 @@ Go to the Link below and download according to your computers specifications.<br
 
 ## Important Linux Commands
 1. <strong>cd :-</strong> Change Directory<br>
-To go into a branch<br>
-```cd branch_name```<br>
-To go back to a step<br>
-```cd ...```
+To go into a folder<br>
+```cd bfolder_name```<br>
+To go back to a outer folder<br>
+```cd ..```
 2. <strong>mkdir :-</strong> Used to make a new folder/Directory.<br>
 ```mkdir new_folder_name```
 3. <strong>touch :-</strong> Used to create a new file.<br>
