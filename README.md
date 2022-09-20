@@ -7,7 +7,7 @@
 In this part we learn about :
 
 -   [Overview of GIT](#Overview-of-GIT)
--   [About the Workshop](#Important-Linux-Commands)
+-   [Important Linux Commands](#Important-Linux-Commands)
 -   [Git Commands](#Git-Commands)
 -   [Github Pages](#Github-Pages)
 <hr>
