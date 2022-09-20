@@ -34,7 +34,7 @@ Go to the Link below and download according to your computers specifications.<br
 ## Important Linux Commands
 1. <strong>cd :-</strong> Change Directory<br>
 To go into a folder<br>
-```cd bfolder_name```<br>
+```cd folder_name```<br>
 To go back to a outer folder<br>
 ```cd ..```
 2. <strong>mkdir :-</strong> Used to make a new folder/Directory.<br>
