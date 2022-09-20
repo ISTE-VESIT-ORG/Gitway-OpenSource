@@ -126,10 +126,13 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/ISTE-VESIT
 <!-- CREDITS -->
 
 ## Credits
+|ISTE|CodeCell|
+|:--------------------:|:--------------------:|
+|[Sarvesh Patil](https://github.com/SarveshPatil29)|[Madhura Mhatre](https://github.com/madorwhat)|
+|[Surya Ganiga](https://github.com/satts27)|[Khushi Bhatia](https://github.com/Khushi-Bhatia)|
+|[Atharva Bhoite](https://github.com/atharvabhoite7)|[Sadhak Kumar](https://github.com/SadhakKumar)|
+||[Attreyee Mukherjee](https://github.com/a-muk)|
 
--   [Sarvesh Patil](https://github.com/SarveshPatil29)
--   [Surya Ganiga](https://github.com/satts27)
--   [Atharva Bhoite](https://github.com/atharvabhoite7)
 
 <!-- CONTACT -->
 
