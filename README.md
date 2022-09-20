@@ -8,36 +8,30 @@ In this part we learn about :
 
 -   [Overview of GIT](#Overview-of-GIT)
 -   [About the Workshop](#Important-Linux-Commands)
--   [Git Bash Commands](#Git-Bash-Commands)
+-   [Git Commands](#Git-Commands)
 -   [Github Pages](#Github-Pages)
-<br></br>
 <hr>
-<br>
 
 <!-- ABOUT THE PROJECT -->
 
 ## Overview of GIT
-<br>
-<h2><strong>What is Git?</strong></h2><br>
-Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.<br><br>
+### What is Git?
+Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
-<h2><strong>What is GitHub?</strong></h2><br>
-GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.<br><br>
+### What is GitHub?
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
-<h2><strong>Version control?</strong></h2><br>
-It is a software that tracks and manages changes to file overtime.<br><br>
+### Version control?
+It is a software that tracks and manages changes to file overtime.
 
-<h1><strong>Installing Git Bash.</strong></h1>
+### Installing Git
 Go to the Link below and download according to your computers specifications.<br>
 ```https://git-scm.com/downloads```
 
 <strong>Keep all the default settings while installing.</strong>
-
 <hr>
-<br></br>
 
-
-### Important Linux Commands
+## Important Linux Commands
 1. <strong>cd :-</strong> Change Directory<br>
 To go into a branch<br>
 ```cd branch_name```<br>
@@ -51,12 +45,9 @@ To go back to a step<br>
 ```pwd```
 5. <strong>ls :-</strong> Used to print contents of directory<br>
 ```ls```
-
-<br></br>
 <hr>
-<br></br>
 
-###  Git Bash Commands
+##  Git Commands
 
 1. <strong> Git config –global user.name ”your_username” :- </strong> Using this command you can set or change the name that is associated with your git commits.<br>
 ```Git config –global user.name ”your_username”```<br>
@@ -90,13 +81,9 @@ Git add “filename” - adds the specific files to the staging area.<br>
 
 10. <strong> Git push :- </strong> The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.<br>
 ```Git push \<url of repo you want to push to>```<br>
-
-
-<br /><br />
 <hr>
-<br></br>
 
-### Github Pages
+## Github Pages
 
 1. Clone the ISTE repo on your device. (https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource)
 2. Add your name to the code.
