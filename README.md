@@ -50,6 +50,8 @@ In this workshop we learn about :
 -   Project management and Collaborating with teams
 -   Website hosting with GitHub pages
 -   Contributing to Open Source
+ 
+### View the presentation [here](https://www.canva.com/design/DAFJ4NHrqmc/FLf22F9cqI2M9SAUOvJ7qw/view?utm_content=DAFJ4NHrqmc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!-- GETTING STARTED -->
 
