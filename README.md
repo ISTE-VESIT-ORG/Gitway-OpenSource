@@ -1,4 +1,5 @@
-![image](https://res.cloudinary.com/sarveshp46/image/upload/v1663178465/git-workshop-readme/poster_vct3e2.png)
+![poster_vct3e2](https://user-images.githubusercontent.com/92196450/224659655-ab758301-75a9-4b7e-97eb-d75eba18ea50.png)
+
 
 <p align="center">
   <h3 align="center">GITWAY TO OPEN SOURCE</h3>
@@ -130,7 +131,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/ISTE-VESIT
 ## Credits
 |ISTE|CodeCell|
 |:--------------------:|:--------------------:|
-|[Sarvesh Patil](https://github.com/SarveshPatil29)|[Madhura Mhatre](https://github.com/madorwhat)|
+|[Sarvesh Patil](https://github.com/sarvesh2902)|[Madhura Mhatre](https://github.com/madorwhat)|
 |[Surya Ganiga](https://github.com/satts27)|[Khushi Bhatia](https://github.com/Khushi-Bhatia)|
 |[Atharva Bhoite](https://github.com/atharvabhoite7)|[Sadhak Kumar](https://github.com/SadhakKumar)|
 ||[Attreyee Mukherjee](https://github.com/a-muk)|
